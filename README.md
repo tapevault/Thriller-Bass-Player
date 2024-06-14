@@ -1,7 +1,9 @@
 # Thriller Bass
-🎹 Virtual Thriller Bass Keyboard
+🎹 Thriller Bass Keyboard
 
 ![Bass](./thriller_bass.png)
 
 
-**disclaimer** - Might be a bit laggy online
+**Disclaimer** - Might be a bit glitchy
+
+Made by TapeVault
